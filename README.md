@@ -12,7 +12,7 @@
 - 🥇 First Place, Microsoft Hackathon
 - 🌐 Qualified Among the Top 8 Teams Nationally, Canadian Engineering Competition 2023 - Programming
 - 🥈 2nd Place, Ontario Engineering Competition 2022 - Programming
-- - 🏆 3rd Place, Hack ITE 2023
+- 🏆 3rd Place, Hack ITE 2023
 - 🌟 2nd Place, York Engineering Competition 2022 - Programming
 
 <!-- Proudly creplated with GPRM ( https://gprm.itsvg.in ) -->
