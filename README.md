@@ -16,7 +16,7 @@
 - 🌟 1st Place, York Engineering Competition 2023 - Programming
 - 🌟 2nd Place, York Engineering Competition 2022 - Programming
 
-# 👷‍♂️  Recent Roles
+# 👷‍♂️ Recent Roles
 
 - **Machine Learning Researcher** @ Lassonde School of Engineering - York University (Sep 2023 - Present)
 
