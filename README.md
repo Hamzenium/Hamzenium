@@ -16,4 +16,22 @@
 - 🌟 1st Place, York Engineering Competition 2023 - Programming
 - 🌟 2nd Place, York Engineering Competition 2022 - Programming
 
+# 👷‍♂️  Recent Roles
+
+- **Machine Learning Researcher** @ Lassonde School of Engineering - York University
+  - 📅 Sep 2023 - Present (3 mos)
+
+- **Software Engineer (Co-op)** @ PwC
+  - 📅 May 2023 - Aug 2023 (4 mos)
+
+- **Software Engineer (Co-op)** @ BEST Lassonde
+  - 📅 May 2023 - Aug 2023 (4 mos)
+
+- **Software Engineer (Co-op)** @ OPS
+  - 📅 Sep 2022 - Apr 2023 (8 mos)
+
+- **Process Engineer (Contract Part-time)** @ AM-TECH CONSULTANTS (Tesla & Faraday Futures)
+  - 📅 Dec 2021 - Mar 2022 (4 mos)
+
+
 <!-- Proudly creplated with GPRM ( https://gprm.itsvg.in ) -->
