@@ -10,7 +10,7 @@
 ## Awards and Achievements
 
 - First Place, Microsoft Hackathon
-- Among the Top 8 Nationally, Canadian Engineering Competition 2023 - Programming
+- Among Top 8 Nationally, Canadian Engineering Competition 2023 - Programming
 - 2nd Place in the Ontario Province, Ontario Engineering Competition 2022 - Programming
 - 3rd Place, Hack ITE 2023
 - 1st Place, York Engineering Competition 2023 - Programming
