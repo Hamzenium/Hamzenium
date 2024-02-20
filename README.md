@@ -16,7 +16,7 @@
 - 1st Place, York Engineering Competition 2023 - Programming
 - 2nd Place, York Engineering Competition 2022 - Programming
 [![](https://visitcount.itsvg.in/api?id=Hamzenium&icon=0&color=0)](https://visitcount.itsvg.in)
-# Recent Roles
+## Recent Roles
 
 - **Machine Learning Researcher** @ Lassonde School of Engineering - York University (Sep 2023 - Present)
 - **Co-founder & ML Engineer** @ CeladonAI (Aug 2023 - Present)
