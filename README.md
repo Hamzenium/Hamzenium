@@ -18,7 +18,7 @@
 [![](https://visitcount.itsvg.in/api?id=Hamzenium&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Recent Roles
 
-- **Undergraduate Research Assistant ** @ Lassonde School of Engineering - York University (Sep 2023 - Present)
+- **Undergraduate Research Assistant** @ Lassonde School of Engineering - York University (Sep 2023 - Present)
 - **Co-founder & ML Engineer** @ CeladonAI (Aug 2023 - Present)
 - **Software Engineer (Co-op)** @ PwC (May 2023 - Aug 2023)
 - **Software Engineer (Co-op)** @ BEST Lassonde (May 2023 - Aug 2023)
