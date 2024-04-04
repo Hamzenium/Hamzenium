@@ -18,7 +18,7 @@
 - **Software Engineer (Co-op)** @ PwC (May 2023 - Aug 2023)
 - **Software Engineer (Co-op)** @ BEST Lassonde (May 2023 - Aug 2023)
 - **Software Engineer (Co-op)** @ OPS (Sep 2022 - Apr 2023)
-- **Process Engineer (Contract Part-time)** @ AM-TECH CONSULTANTS (Tesla & Faraday Futures) (Dec 2021 - Mar 2022)
+- **Process Engineer (Contract Part-time)** @ AM-Tech Consultants (Tesla & Faraday Futures) (Dec 2021 - Mar 2022)
   
 ## Open Source Contributions
 - **RescueNet: Hugging Face**
