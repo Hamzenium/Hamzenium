@@ -17,7 +17,7 @@
   
 ## Recent Roles
 
-- **Undergraduate Research Assistant** @ Lassonde School of Engineering - York University (Sep 2023 - Present)
+- **Undergraduate Research Assistant** @ Lassonde School of Engineering - York University (Sep 2023 - April 2024)
 - **Co-founder & ML/Software Engineer** @ CeladonAI (Aug 2023 - Present)
 - **Software Engineer (Co-op)** @ PwC (May 2023 - Aug 2023)
 - **Software Engineer (Co-op)** @ BEST Lassonde (May 2023 - Aug 2023)
@@ -26,5 +26,4 @@
   
 ## Open Source Contributions
 - **RescueNet: Hugging Face**
-- **Loading ...**
 <!-- Proudly creplated with GPRM ( https://gprm.itsvg.in ) -->
