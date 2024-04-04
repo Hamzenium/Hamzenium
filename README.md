@@ -26,7 +26,6 @@
 ## Must Read Publications
 - **Attention Is All You Need**
 - **LoRA: Low-Rank Adaptation of Large Language Models**
-- **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**
 - **The Chubby lock service for loosely-coupled distributed systems**
   
 <!-- Proudly creplated withb GPRM ( https://gprm.itsvg.in ) -->
