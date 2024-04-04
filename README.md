@@ -1,5 +1,5 @@
 # Area of Interest:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=56&pause=1000&color=0DE140&random=false&width=2000&height=200&lines=Backend+Development%2C+Distributed+Systems+%26+Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=56&pause=1000&color=F8F8F8FB&random=false&width=2000&height=200&lines=Backend+Development%2C+Distributed+Systems+%26+Machine+Learning)](https://git.io/typing-svg)
 ---
 ## Awards and Achievements
 
