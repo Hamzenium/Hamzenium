@@ -17,6 +17,7 @@
   
 ## Recent Roles
 
+- **Software Engineer (Co-op)** @ BlackBerry (May 2024 - Aug 2024)
 - **Undergraduate Research Assistant** @ Lassonde School of Engineering - York University (Sep 2023 - April 2024)
 - **Co-founder & ML/Software Engineer** @ CeladonAI (Aug 2023 - Present)
 - **Software Engineer (Co-op)** @ PwC (May 2023 - Aug 2023)
