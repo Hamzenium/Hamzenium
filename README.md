@@ -3,8 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadhamzasohail/) 
 
 # 💻 Area of Interest:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=56&pause=1000&color=0100F7&random=false&width=2000&height=200&lines=Backend+Development%2C+Distributed+Systems+%26+Machine+Learning)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=56&pause=1000&color=F7650E&random=false&width=2000&height=200&lines=Backend+Development%2C+Distributed+Systems+%26+Machine+Learning)](https://git.io/typing-svg)
 ---
 ## Awards and Achievements
 
