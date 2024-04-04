@@ -23,9 +23,10 @@
 ## Open Source Contributions
 - **RescueNet: Hugging Face**
 
-## Must Read Papers
+## Must Read Publications
 - **Attention Is All You Need: https://arxiv.org/abs/1706.03762**
 - **LoRA: Low-Rank Adaptation of Large Language Models: https://arxiv.org/abs/2106.09685**
 - **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale: https://arxiv.org/abs/2010.11929**
+- **The Chubby lock service for loosely-coupled distributed systems: http://surl.li/sfxuv**
   
 <!-- Proudly creplated with GPRM ( https://gprm.itsvg.in ) -->
