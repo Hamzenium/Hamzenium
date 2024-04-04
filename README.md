@@ -29,4 +29,4 @@
 - **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale: https://arxiv.org/abs/2010.11929**
 - **The Chubby lock service for loosely-coupled distributed systems: http://surl.li/sfxuv**
   
-<!-- Proudly creplated with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly creplated withb GPRM ( https://gprm.itsvg.in ) -->
