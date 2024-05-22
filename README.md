@@ -12,12 +12,12 @@
   
 ## Recent Roles
 
-- **Software Engineer (Co-op)** @ BlackBerry (May 2024 - Aug 2024)
+- **Software Engineer (Co-op)** @ BlackBerry QNX (May 2024 - Aug 2024)
 - **Undergraduate Research Assistant** @ PICSSL Lab (Sep 2023 - April 2024)
 - **Co-founder & ML/Software Engineer** @ CeladonAI (Aug 2023 - Present)
 - **Software Engineer (Co-op)** @ PwC (May 2023 - Aug 2023)
 - **Software Engineer (Co-op)** @ BEST Lassonde (May 2023 - Aug 2023)
-- **Software Engineer (Co-op)** @ OPS (Nov 2022 - Apr 2023)
+- **Software Engineer (Co-op)** @ MCCSS (Nov 2022 - Apr 2023)
 - **Process Engineer (Contract Part-time)** @ AM-Tech Consultants (Tesla & Faraday Futures) (Dec 2021 - Mar 2022)
   
 ## Open Source Contributions
