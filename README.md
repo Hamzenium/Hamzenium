@@ -14,16 +14,16 @@
 
 - **Software Engineer (Co-op)** @ BlackBerry QNX (May 2024 - Aug 2024)
 - **Undergraduate Research Assistant** @ PICSSL Lab (Sep 2023 - April 2024)
-- **Co-founder & ML/Software Engineer** @ CeladonAI (Aug 2023 - Present)
+- **Co-founder & Software Engineer** @ CeladonAI (Aug 2023 - Present)
 - **Software Engineer (Co-op)** @ PwC (May 2023 - Aug 2023)
-- **Software Engineer (Co-op)** @ BEST Lassonde (May 2023 - Aug 2023)
-- **Software Engineer (Co-op)** @ MCCSS (Nov 2022 - Apr 2023)
+- **Software Engineer (Co-op)** @ BEST - Lab2Client (May 2023 - Aug 2023)
+- **Software Engineer (Co-op)** @ CYSSC (Nov 2022 - Apr 2023)
 - **Process Engineer (Contract Part-time)** @ AM-Tech Consultants (Tesla & Faraday Futures) (Dec 2021 - Mar 2022)
   
 ## Open Source Contributions
 - **RescueNet: Hugging Face**
 
-## Must Read Publications
+## Favorite Publications
 - **Attention Is All You Need**
 - **LoRA: Low-Rank Adaptation of Large Language Models**
 - **The Chubby lock service for loosely-coupled distributed systems**
