@@ -20,7 +20,4 @@
 - **Software Engineer (Co-op)** @ CYSSC (Nov 2022 - Apr 2023)
 - **Process Engineer (Contract Part-time)** @ AM-Tech Consultants (Tesla & Faraday Futures) (Dec 2021 - Mar 2022)
   
-## Open Source Contributions
-- **RescueNet: Hugging Face**
-  
 <!-- Proudly creplated withb GPRM ( https://gprm.itsvg.in ) -->
