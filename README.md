@@ -12,6 +12,7 @@
   
 ## Recent Roles
 
+- **Software Engineer (Co-op)** @ Kinaxis (Core Algorithms Team) (May 2025 - Aug 2025)
 - **Software Engineer (Co-op)** @ BlackBerry QNX (May 2024 - Aug 2024)
 - **Undergraduate Research Assistant** @ PICSSL Lab (Sep 2023 - April 2024)
 - **Co-founder & Software Engineer** @ CelAI (Aug 2023 - Present)
