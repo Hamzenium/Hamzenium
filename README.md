@@ -1,14 +1,18 @@
 ## Area of Interests
-**High-Performance Backend Systems, Distributed Infrastructure & Applied Machine Learning**
+**High-Performance Backend Systems • Distributed Infrastructure • Applied Machine Learning**
 
 ---
+
 ## Awards and Achievements
-- 1st Place, Microsoft Hackathon
-- Among the Top 8 Nationally, Canadian Engineering Competition 2023 - Programming
-- 2nd Place in the Ontario Province, Ontario Engineering Competition 2022 - Programming
-- 3rd Place, Hack ITE 2023
-- 1st Place, York Engineering Competition 2023 - Programming
-- 2nd Place, York Engineering Competition 2022 - Programming
+
+- **1st Place**, Microsoft Hackathon
+- **Among the Top 8 Nationally**, Canadian Engineering Competition 2023 - Programming
+- **2nd Place in the Ontario Province**, Ontario Engineering Competition 2022 - Programming
+- **3rd Place**, Hack ITE 2023
+- **1st Place**, York Engineering Competition 2023 - Programming
+- **2nd Place**, York Engineering Competition 2022 - Programming
+
+---
   
 ## Recent Roles
 - **Software Engineer (Co-op)** @ Kinaxis (Core Algorithms Team) (May 2025 - Aug 2025)
@@ -20,5 +24,15 @@
 - **Software Engineer (Co-op)** @ BEST - Lab2Client (May 2023 - Aug 2023)
 - **Software Engineer (Co-op)** @ Ontario Government (Nov 2022 - Apr 2023)
 - **Process Engineer (Contract Part-time)** @ AM-Tech Consultants (Tesla & Faraday Futures) (Dec 2021 - Mar 2022)
-  
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hamzenium&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hamzenium&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzenium&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Hamzenium&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
