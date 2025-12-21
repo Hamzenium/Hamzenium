@@ -27,7 +27,7 @@
 
 ---
 
-## Open Source
+## Open-Source
 - **[etcd-operator](https://github.com/etcd-io/etcd-operator)** — CNCF Kubernetes Operator for automated etcd cluster management
 - **[ViT-Deepfake-Classifier](https://huggingface.co/Hamzenium/ViT-Deepfake-Classifier)** — Hugging Face Vision Transformer model for deepfake detection (~200 downloads)
 
