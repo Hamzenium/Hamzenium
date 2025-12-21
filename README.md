@@ -27,6 +27,12 @@
 
 ---
 
+## Open Source
+- **[etcd-operator](https://github.com/etcd-io/etcd-operator)** — CNCF Kubernetes Operator for automated etcd cluster management
+- **[ViT-Deepfake-Classifier](https://huggingface.co/Hamzenium/ViT-Deepfake-Classifier)** — Vision Transformer model for deepfake detection (200+ downloads)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hamzenium&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Hamzenium&theme=dark&hide_border=false)<br/>
