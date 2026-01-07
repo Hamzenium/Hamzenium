@@ -1,5 +1,5 @@
 ## Area of Interests
-**High-Performance Backend Systems • Distributed Systems • Applied Machine Learning**
+**Full-Stack Engineering • Distributed Systems • Applied Machine Learning**
 
 ---
 
