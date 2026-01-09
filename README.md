@@ -35,7 +35,7 @@
 
 ## Gaming 🪖
 **Activision ID:** Hamzenium  
-Currently playing **Call of Duty: Black Ops 6**
+Currently playing **Call of Duty: Black Ops 7**
 
 ---
 
