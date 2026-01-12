@@ -33,7 +33,7 @@
 
 ---
 
-## 🎮 Gaming
+## Gaming 🎮 
 **COD: Black Ops 7** — Prestige 3  
 Activision ID: Hamzenium
 
