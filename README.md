@@ -1,5 +1,5 @@
 ## Area of Interests
-**Full-Stack Engineering • Distributed Systems • Applied Machine Learning**
+**Backend/Systems • Distributed Systems • Applied Machine Learning**
 
 ---
 
