@@ -3,7 +3,7 @@
 
 ---
 
-## Awards and Achievements
+## Achievements
 
 - **1st Place**, Microsoft Hackathon
 - **Among the Top 8 Nationally**, Canadian Engineering Competition 2023 - Programming
